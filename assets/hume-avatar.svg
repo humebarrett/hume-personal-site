@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-labelledby="title desc">
+  <title id="title">Hume, drawn as an original avatar</title>
+  <desc id="desc">A simple geometric self-portrait on a muted sage background.</desc>
+  <rect width="400" height="500" fill="#d8e0d6"/>
+  <circle cx="315" cy="104" r="64" fill="#e9a254"/>
+  <circle cx="74" cy="378" r="54" fill="#c7d4c6"/>
+  <path d="M66 500c10-87 58-137 134-137s124 50 134 137H66Z" fill="#274d61"/>
+  <path d="M162 332h76v79c-21 22-55 23-76 0v-79Z" fill="#b86d4d"/>
+  <path d="M116 195c0-76 33-122 88-122 61 0 88 47 88 122v48c0 70-38 119-88 119s-88-49-88-119v-48Z" fill="#d58e69"/>
+  <path d="M113 218c-15-77 3-144 52-164 37-16 94-1 117 28 23 30 24 73 13 113-14-10-26-26-34-44-36 23-84 32-144 24v43h-4Z" fill="#252b2c"/>
+  <path d="M130 233c13-8 29-8 43 0M228 233c13-8 29-8 42 0" fill="none" stroke="#3d302b" stroke-width="7" stroke-linecap="round"/>
+  <ellipse cx="157" cy="257" rx="6" ry="8" fill="#252b2c"/><ellipse cx="244" cy="257" rx="6" ry="8" fill="#252b2c"/>
+  <path d="M198 255c-2 23-7 40-14 52 8 6 19 7 28 2" fill="none" stroke="#a45e47" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M166 326c18 13 43 14 64-1" fill="none" stroke="#7e443d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M150 398c12 26 28 39 50 39s38-13 50-39" fill="none" stroke="#e8bd8e" stroke-width="5" opacity=".75"/>
+  <path d="M95 500c11-53 36-82 70-96 12 24 24 36 35 36s23-12 35-36c34 14 59 43 70 96H95Z" fill="#203e4b"/>
+  <path d="M101 165c-19 16-30 43-33 79M299 162c19 16 30 43 33 79" fill="none" stroke="#f1ede5" stroke-width="3" opacity=".75"/>
+  <circle cx="83" cy="92" r="8" fill="#d94e32"/><path d="M297 420h36m-18-18v36" stroke="#f1ede5" stroke-width="3" opacity=".8"/>
+</svg>

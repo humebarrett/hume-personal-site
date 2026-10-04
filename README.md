@@ -11,7 +11,7 @@ docker run --rm -p 8080:80 hume-personal-site
 
 Then open http://localhost:8080. The gallery images are stored in `assets/`, so the site does not depend on an external image host.
 
-The three photographs are from Unsplash: a night sky, a circuit board, and modern architecture. See https://unsplash.com/license.
+The page includes an original illustrated avatar and three locally hosted Unsplash photographs: a coding desk, a laptop with code and notebook, and a road through red-rock country. Images are bundled in `assets/`; the site does not rely on an external image host. See https://unsplash.com/license.
 
 To publish it, tag the image with a registry path and push it after logging in:
 
